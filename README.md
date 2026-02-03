@@ -1,6 +1,5 @@
 # Bittensor Dashboard
-test4
-
+test final
 MERN app: fetches subnet data from [taostats.io](https://taostats.io) (subnets 1–128), stores in MongoDB, and displays a clean taostats-style table.
 
 ## Prerequisites
@@ -19,6 +18,7 @@ cp .env.example .env
 npm install
 npm run dev
 ```
+test4
 
 API runs at **http://localhost:4000**
 
