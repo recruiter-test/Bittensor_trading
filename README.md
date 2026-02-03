@@ -1,5 +1,5 @@
 # Bittensor Dashboard
-test1
+test2
 
 MERN app: fetches subnet data from [taostats.io](https://taostats.io) (subnets 1–128), stores in MongoDB, and displays a clean taostats-style table.
 
