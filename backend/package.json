@@ -1,0 +1,25 @@
+{
+  "name": "bittensor-dashboard-api",
+  "version": "1.0.0",
+  "description": "Bittensor subnet data API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.17.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^8.2.1",
+    "helmet": "^8.1.0",
+    "logkitx": "^1.0.0",
+    "mongoose": "^5.9.14",
+    "mongoose-sequence": "^5.2.2",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^2.0.3",
+    "passport": "^0.7.0"
+  }
+}
